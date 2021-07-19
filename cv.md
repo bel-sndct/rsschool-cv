@@ -28,3 +28,11 @@ My name is Dmitry and, i am currently a studend of BSUIR. Now my general goal is
 [GitHub repository](https://github.com/bel-sndct)
 
 ## Work experience: not yet
+
+## Education
+
+Student of Belarusian State University of Informatics and Radioelectronics.
+
+## English level
+
+I got A2 level for the EPAM training test. I plan to start taking English language courses.
