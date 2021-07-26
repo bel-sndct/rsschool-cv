@@ -1,0 +1,28 @@
+.page {
+    max-width: 1000px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.line {
+    border: none;
+    background-color: rgb(77, 100, 238);
+    height: 2px;
+}
+
+.photo {
+    height: 585px;
+    border: none;
+}
+
+.form {
+    border-left: 3px solid;
+    border-color: rgb(77, 100, 238);
+    background-color: #F0FFFF;
+    padding: 10px;
+}
+
+.hblock {
+    float: right;
+}
